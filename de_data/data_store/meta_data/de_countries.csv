@@ -1,0 +1,9 @@
+country,native_name,iso2,iso3,population,area,capital,capital_lat,capital_lng,region,continent
+China,中国,CN,CHN,1367110000.0,9640011.0,Beijing,39.906217,116.391276,Eastern Asia,Asia
+France,France,FR,FRA,66078000.0,640679.0,Paris,48.856697,2.351462,Western Europe,Europe
+Germany,Deutschland,DE,DEU,80783000.0,357114.0,Berlin,52.517036,13.38886,Western Europe,Europe
+India,भारत,IN,IND,1263930000.0,3287590.0,New Delhi,28.614179,77.202266,Southern and Central Asia,Asia
+Japan,日本,JP,JPN,127080000.0,377930.0,Tokyo,35.682839,139.759455,Eastern Asia,Asia
+Russia,Россия,RU,RUS,146233000.0,17124442.0,Moscow,55.750446,37.617494,Eastern Europe,Europe
+United Kingdom,United Kingdom,GB,GBR,64105654.0,242900.0,London,51.507322,-0.127647,British Isles,Europe
+United States,United States,US,USA,319259000.0,9629091.0,Washington D.C.,38.894986,-77.036571,North America,North America
